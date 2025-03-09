@@ -1,0 +1,10 @@
+{
+  "title": "Sign in to your account",
+  "username": "Username",
+  "password": "Password",
+  "rememberMe": "Remember me",
+  "forgotPassword": "Forgot your password?",
+  "signIn": "Sign in",
+  "signUp": "Sign up",
+  "invalidCredentials": "Invalid username or password"
+}
